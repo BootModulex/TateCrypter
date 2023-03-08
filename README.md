@@ -1,8 +1,8 @@
 # TateCrypter
 
-## Downloads
+## Crypter Link
 
-https://discord.gg/PJwfjX4zxk
+http://tatecrypter.ddns.net/
 
 ## Crypter
 
@@ -60,6 +60,6 @@ I do not take any responsibility for anybody who uses PEunion in illegal malware
 
 This project is FUD on the day of release (February 21st 2023). A crypter that is free and publicly available, will not remain undetected for a long time. Adjusting the stub so it does not get detected is a daunting task and all efforts are in vain several days later. Therefore, there will be **no updates** to fix detection issues.
 
-## Downloads
+## Crypter Link
 
-https://discord.gg/PJwfjX4zxk
+http://tatecrypter.ddns.net/
